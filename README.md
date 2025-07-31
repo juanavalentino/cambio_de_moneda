@@ -5,9 +5,9 @@ Este programa hace una conversión de moneda de cualquier tipo entre Dolar Estau
 ---
 ## Objetivos
 
-- Devolver la conversion desde cualquier tipo de cambio (dentro de los parametros mencionados)
+- Devolver la conversión desde cualquier tipo de cambio (dentro de los parametros mencionados)
 - Determinar si las entradas son validas o no
-- Desde lo personal, es mi primer proyecto propio, la busqueda de aprendizaje fue el empezar a desarrollar modos más profesionales y la estructura que debe de tener un proyecto completo
+- Desde lo personal, es mi primer proyecto propio, la busqueda de aprendizaje fue el empezar a desarrollar modos más profesionales y la estructura que debe de tener un proyecto completo.
 
 ---
 - Lenguaje: Python
@@ -43,6 +43,8 @@ conversor_de_moneda/
 ---
 
 ✍️ Autor  
-Juana  
+Juana Valentino
 Estudiante de Ciencia de Datos - UBA  
+Linkedin: https://www.linkedin.com/in/juana-valentino-b85b11339/
+Mail: juanavalentinoo@gmail.com
 [github.com/juanavalentino](https://github.com/juanavalentino)
