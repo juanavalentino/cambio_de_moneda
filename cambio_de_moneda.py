@@ -1,5 +1,5 @@
 """
-convertor (moneda_actual:str, monto: Z,moneda_convertir:str) : Z {
+conversor (moneda_actual:str, monto: Z,moneda_convertir:str) : Z {
 requiere = {moneda = [ARS,USD,EUR,BRL]}
 asegura = {Dado una moneda y determinar su conversión devuelve el monto en el tipo de cambio}
 }
