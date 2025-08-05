@@ -52,6 +52,9 @@ def conversor (moneda_actual,monto,moneda_convert):
             elif moneda_convert == 'EUR':
                 conversion = monto * 0.16
                 return conversion
+        elif moneda_actual == moneda_convert:
+            return monto
+
 if __name__ == "__main__":
     moneda_actual = input('Determina el valor de que queres convertir:')
     monto = int(input('Monto que queres convertir:'))

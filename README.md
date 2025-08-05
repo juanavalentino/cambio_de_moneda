@@ -1,6 +1,6 @@
 ## Conversor de monedas💰
 
-Este programa hace una conversión de moneda de cualquier tipo entre Dolar Estaunidense (USD), Euro (EUR), Peso Argentino (ARS) y Real Brasilero (BRL)
+Este programa hace una conversión de moneda de cualquier tipo entre Dolar Estadounidense (USD), Euro (EUR), Peso Argentino (ARS) y Real Brasilero (BRL)
 
 ---
 ## Objetivos
@@ -42,9 +42,17 @@ conversor_de_moneda/
 
 ---
 
+<<<<<<< HEAD
 ✍️ Autor  
 Juana Valentino
 Estudiante de Ciencia de Datos - UBA  
 Linkedin: https://www.linkedin.com/in/juana-valentino-b85b11339/
 Mail: juanavalentinoo@gmail.com
 [github.com/juanavalentino](https://github.com/juanavalentino)
+=======
+✍️ Autor
+Juana Valentino Estudiante de Ciencia de Datos - UBA
+Linkedin: https://www.linkedin.com/injuana-valentino-b85b11339/ 
+Mail: juanavalentinoo@gmail.com 
+GitHub: github.com/juanavalentino
+>>>>>>> 872014f (Correciones)
